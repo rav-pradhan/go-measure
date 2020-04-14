@@ -1,7 +1,7 @@
 package haversine_test
 
 import (
-	"go_haversine/haversine"
+	"github.com/rav-pradhan/go-measure-distance/haversine"
 	"math"
 	"testing"
 )
